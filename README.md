@@ -7,9 +7,6 @@
   <a href="http://qiita.com/yoyoyo_pg">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yoyoyo_pg/contributions.svg" />
   </a>
-  <a href="https://github.com/yoyoyo-pg">
-    <img height="20" src="https://img.shields.io/github/followers/yoyoyo-pg?label=follow&logo=github&style=flat" />
-  </a>
 </p>
 
 ### Languages and Tools：
