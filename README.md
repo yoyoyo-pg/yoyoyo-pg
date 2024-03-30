@@ -7,16 +7,6 @@
 <!--END_SECTION:lapras-card-->
 
 ### Qiita posts
-
-<p align="left">
-  <a href="http://qiita.com/yoyoyo_pg">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yoyoyo_pg/posts.svg" />
-  </a>
-  <a href="http://qiita.com/yoyoyo_pg">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yoyoyo_pg/contributions.svg" />
-  </a>
-</p>
-
 <!-- BLOG-POST-LIST:START -->
 - [はじめてのOSSコントリビュートをしてみた](https://qiita.com/yoyoyo_pg/items/476411a3a63d9c7524e6)
 - [FargateのエフェメラルストレージをDatadogで監視する](https://qiita.com/yoyoyo_pg/items/ae7c577c00ceca47c2a3)
