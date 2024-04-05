@@ -8,8 +8,8 @@
 
 ### Qiita posts
 <!-- BLOG-POST-LIST:START -->
+- [UbuntuのEC2にJMeterをインストールし、CLI上で負荷試験を実行するまで](https://qiita.com/yoyoyo_pg/items/f6673bf9b6997ae84518)
 - [はじめてのOSSコントリビュートをしてみた](https://qiita.com/yoyoyo_pg/items/476411a3a63d9c7524e6)
 - [FargateのエフェメラルストレージをDatadogで監視する](https://qiita.com/yoyoyo_pg/items/ae7c577c00ceca47c2a3)
 - [GradleのContainuous Buildsを使い、タスクの自動実行を実現する](https://qiita.com/yoyoyo_pg/items/d9ec078365167b89c6c1)
-- [AWS Control Tower × BLEAの概要について調べてみる](https://qiita.com/yoyoyo_pg/items/f9f1a392e62eb8ed2903)
 <!-- BLOG-POST-LIST:END -->
