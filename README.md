@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyoyo-pg&layout=compact&hide=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/UWIVB0Y" target="_blank" rel="noopener noreferrer"><img alt="UWIVB0Y's scores on LAPRAS are as follows: Engineering: 3.6 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.36 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.6&b=3.43&i=3.36&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/UWIVB0Y" target="_blank" rel="noopener noreferrer"><img alt="UWIVB0Y's scores on LAPRAS are as follows: Engineering: 3.66 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.4 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.43&i=3.4&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 ### Qiita posts
