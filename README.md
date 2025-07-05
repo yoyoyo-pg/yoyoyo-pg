@@ -8,8 +8,8 @@
 
 ### Qiita posts
 <!-- BLOG-POST-LIST:START -->
+- [Datadog の Log Rehydration にかかる料金をシンプルにまとめる](https://qiita.com/yoyoyo_pg/items/2b9e6722d5ba0547c82c)
+- [Data Lifecycle Manager が予定通りの時刻に実行されずに詰まった点](https://qiita.com/yoyoyo_pg/items/bf22dca18e71cef7f07e)
 - [AWSマネジメントコンソールをカスタマイズしてみよう](https://qiita.com/yoyoyo_pg/items/b6b0c04bafafcc79c9de)
 - [ECSのヘルスチェック猶予期間についてハマった点](https://qiita.com/yoyoyo_pg/items/15e577f929f69bddbe09)
-- [JMeterのタイマーの配置場所には気を付ける](https://qiita.com/yoyoyo_pg/items/7977d710a9f06efe8c35)
-- [社内有志勉強会を始めて1年を振り返る](https://qiita.com/yoyoyo_pg/items/a04f644f6e0f8fa0b7dc)
 <!-- BLOG-POST-LIST:END -->
