@@ -8,8 +8,8 @@
 
 ### Qiita posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Enterprise のライセンス周りの初期設定で詰まったポイント](https://qiita.com/yoyoyo_pg/items/2859fd2c038077749c62)
 - [Datadog の Log Rehydration にかかる料金をシンプルにまとめる](https://qiita.com/yoyoyo_pg/items/2b9e6722d5ba0547c82c)
 - [Data Lifecycle Manager が予定通りの時刻に実行されずに詰まった点](https://qiita.com/yoyoyo_pg/items/bf22dca18e71cef7f07e)
 - [AWSマネジメントコンソールをカスタマイズしてみよう](https://qiita.com/yoyoyo_pg/items/b6b0c04bafafcc79c9de)
-- [ECSのヘルスチェック猶予期間についてハマった点](https://qiita.com/yoyoyo_pg/items/15e577f929f69bddbe09)
 <!-- BLOG-POST-LIST:END -->
